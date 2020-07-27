@@ -1,2 +1,7 @@
+# /data folder contains datasets
+/data
+
+# private.config is where you store private configuration for github and colab interaction
+private.config
 
 *.npz
