@@ -5,3 +5,6 @@
 private.config
 
 *.npz
+
+# ngrok required to make ssh connections, but we don't need to upload it to repos
+ngrok*
